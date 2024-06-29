@@ -1,0 +1,19 @@
+{
+  "geode": "3.1.1",
+  "gd": {
+    "win": "2.206",
+    "android": "2.206",
+    "mac": "2.206",
+    "ios": "2.206"
+  },
+  "id": "the_bearodactyl.apui",
+  "name": "apUI",
+  "version": "0.0.5",
+  "developer": "the_bearodactyl",
+  "description": "an api to easily and seamlessly make new UI components",
+  "api": {
+    "include": [
+      "include/*.hpp"
+    ]
+  }
+}
