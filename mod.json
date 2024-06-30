@@ -8,7 +8,7 @@
   },
   "id": "the_bearodactyl.apui",
   "name": "apUI",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "developer": "the_bearodactyl",
   "description": "an api to easily and seamlessly make new UI components",
   "api": {
